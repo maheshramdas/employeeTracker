@@ -9,6 +9,7 @@
 4) Update employee role options allows update support for employee's role
 
 ## Screenshots
+![employeeTracker_start](https://user-images.githubusercontent.com/109004012/193436575-1f6e4c32-01c2-41ef-8448-c63074488865.png)
 
 ## URLS
 Walkthrough Video: https://drive.google.com/file/d/1pwvvrCo1p3d2cxA31-EnkMypkx3wT9k6/view
