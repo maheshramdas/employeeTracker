@@ -10,8 +10,8 @@
 
 ## Screenshots
 ![employeeTracker_start](https://user-images.githubusercontent.com/109004012/193436575-1f6e4c32-01c2-41ef-8448-c63074488865.png)
-![employeeTracker_quit](https://user-images.githubusercontent.com/109004012/193436621-81ecdc5b-a077-443c-87b0-c2831c50b7fc.png)
 ![employeeTracker_phase](https://user-images.githubusercontent.com/109004012/193436623-e544a79c-6f35-47ed-8bbd-0017ca5b9d7b.png)
+![employeeTracker_quit](https://user-images.githubusercontent.com/109004012/193436621-81ecdc5b-a077-443c-87b0-c2831c50b7fc.png)
 
 
 ## URLS
